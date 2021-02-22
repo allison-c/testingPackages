@@ -1,5 +1,11 @@
 # package-a
 
+## 3.0.0
+
+### Major Changes
+
+- 9d6f877: summary
+
 ## 2.0.0
 
 ### Major Changes
