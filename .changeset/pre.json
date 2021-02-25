@@ -1,0 +1,10 @@
+{
+  "mode": "pre",
+  "tag": "next",
+  "initialVersions": {
+    "package-a": "4.0.0",
+    "package-b": "1.0.3",
+    "package-c": "1.0.0"
+  },
+  "changesets": []
+}
