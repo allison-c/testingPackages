@@ -1,5 +1,13 @@
 # package-b
 
+## 1.0.3
+
+### Patch Changes
+
+- d2c1ef1: pre relase b
+- Updated dependencies [5dfbf3b]
+  - package-a@4.0.0
+
 ## 1.0.3-alpha.0
 
 ### Patch Changes
