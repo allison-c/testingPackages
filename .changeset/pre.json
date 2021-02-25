@@ -6,5 +6,7 @@
     "package-b": "1.0.3",
     "package-c": "1.0.0"
   },
-  "changesets": []
+  "changesets": [
+    "short-steaks-live"
+  ]
 }
