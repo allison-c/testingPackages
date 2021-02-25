@@ -1,5 +1,12 @@
 # package-b
 
+## 1.0.3-alpha.0
+
+### Patch Changes
+
+- Updated dependencies [5dfbf3b]
+  - package-a@4.0.0-alpha.0
+
 ## 1.0.2
 
 ### Patch Changes

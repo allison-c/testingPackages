@@ -1,7 +1,7 @@
 {
   "name": "package-b",
-  "version": "1.0.2",
+  "version": "1.0.3-alpha.0",
   "dependencies": {
-    "package-a": "^3.0.0"
+    "package-a": "^4.0.0-alpha.0"
   }
 }

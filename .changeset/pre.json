@@ -1,0 +1,12 @@
+{
+  "mode": "pre",
+  "tag": "alpha",
+  "initialVersions": {
+    "package-a": "3.1.0",
+    "package-b": "1.0.2",
+    "package-c": "1.0.0"
+  },
+  "changesets": [
+    "modern-wasps-chew"
+  ]
+}

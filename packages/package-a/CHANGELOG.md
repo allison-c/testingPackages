@@ -1,5 +1,11 @@
 # package-a
 
+## 4.0.0-alpha.0
+
+### Major Changes
+
+- 5dfbf3b: pre relase
+
 ## 3.1.0
 
 ### Minor Changes
