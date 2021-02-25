@@ -1,5 +1,11 @@
 # package-b
 
+## 2.0.0
+
+### Major Changes
+
+- 0795423: publish b
+
 ## 2.0.0-next.0
 
 ### Major Changes
