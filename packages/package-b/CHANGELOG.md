@@ -1,5 +1,11 @@
 # package-b
 
+## 2.1.0-next.0
+
+### Minor Changes
+
+- 5d9421a: package b need a pre reelase
+
 ## 2.0.1
 
 ### Patch Changes

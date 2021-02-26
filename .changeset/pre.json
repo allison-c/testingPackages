@@ -6,5 +6,7 @@
     "package-b": "2.0.1",
     "package-c": "1.0.0"
   },
-  "changesets": []
+  "changesets": [
+    "itchy-pumas-report"
+  ]
 }
