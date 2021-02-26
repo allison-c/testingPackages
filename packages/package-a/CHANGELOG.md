@@ -1,5 +1,11 @@
 # package-a
 
+## 6.0.0-next.0
+
+### Major Changes
+
+- 938b563: contributor changes
+
 ## 5.0.0
 
 ### Major Changes

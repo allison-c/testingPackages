@@ -1,5 +1,12 @@
 # package-b
 
+## 2.1.0-next.1
+
+### Patch Changes
+
+- Updated dependencies [938b563]
+  - package-a@6.0.0-next.0
+
 ## 2.1.0-next.0
 
 ### Minor Changes
