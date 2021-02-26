@@ -1,5 +1,11 @@
 # package-b
 
+## 3.0.0
+
+### Major Changes
+
+- 5d86f21: contributer bump commit
+
 ## 2.1.0
 
 ### Minor Changes
