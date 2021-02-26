@@ -1,5 +1,11 @@
 # package-a
 
+## 5.0.0
+
+### Major Changes
+
+- 05ee603: test
+
 ## 4.1.0
 
 ### Minor Changes
