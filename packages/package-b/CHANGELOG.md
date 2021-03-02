@@ -1,5 +1,11 @@
 # package-b
 
+## 4.0.0-next.2
+
+### Patch Changes
+
+- c12f1ff: y
+
 ## 4.0.0-next.1
 
 ### Major Changes
