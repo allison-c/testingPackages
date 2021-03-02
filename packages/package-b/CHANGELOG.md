@@ -1,5 +1,16 @@
 # package-b
 
+## 4.0.0
+
+### Major Changes
+
+- 8e6e8f8: n
+
+### Patch Changes
+
+- efe26bb: b
+- c12f1ff: y
+
 ## 4.0.0-next.2
 
 ### Patch Changes
