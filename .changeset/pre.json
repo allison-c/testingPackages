@@ -1,0 +1,12 @@
+{
+  "mode": "pre",
+  "tag": "next",
+  "initialVersions": {
+    "package-a": "6.0.0",
+    "package-b": "4.0.0",
+    "package-c": "1.0.0"
+  },
+  "changesets": [
+    "wise-cats-play"
+  ]
+}

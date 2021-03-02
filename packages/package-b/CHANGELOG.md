@@ -1,5 +1,11 @@
 # package-b
 
+## 5.0.0-next.0
+
+### Major Changes
+
+- f8edf85: fsdf
+
 ## 4.0.0
 
 ### Major Changes
