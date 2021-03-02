@@ -1,5 +1,11 @@
 # package-b
 
+## 4.0.0-next.1
+
+### Major Changes
+
+- 8e6e8f8: n
+
 ## 3.0.1-next.0
 
 ### Patch Changes

@@ -7,6 +7,7 @@
     "package-c": "1.0.0"
   },
   "changesets": [
-    "seven-cooks-bathe"
+    "seven-cooks-bathe",
+    "smooth-plants-sleep"
   ]
 }

@@ -1,6 +1,6 @@
 {
   "name": "package-b",
-  "version": "3.0.1-next.0",
+  "version": "4.0.0-next.1",
   "dependencies": {
     "package-a": "^6.0.0"
   }
